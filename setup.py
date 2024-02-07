@@ -31,7 +31,7 @@ setup(
     url = 'http://ecidadania.org',
     license = '3-clause BSD',
     install_requires = [
-        'django==1.5.1',
+        'django==3.2.24',
         'PIL',
         'python-dateutil==1.5',
         ],
